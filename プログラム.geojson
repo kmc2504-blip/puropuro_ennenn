@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360196,
+          33.974127
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "OFFICE前の道路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360196,
+          33.974127
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "OFFICE前の道路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.35986,
+          33.9737918
+        ]
+      },
+      "properties": {
+        "分類": "交通, 生物",
+        "場所": "OFFICE裏"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361807,
+          33.973815
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "HOMEーOFFICE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361561,
+          33.974123
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "駐車場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361458,
+          33.9743
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "橋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361458,
+          33.974543
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "工場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3620771,
+          33.972051
+        ]
+      },
+      "properties": {
+        "分類": "生物",
+        "場所": "遊歩道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3616074,
+          33.9696928
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "文化橋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3608681,
+          33.9700935
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "文化橋-小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3599844,
+          33.9700905
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "中学校前"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.359849,
+          33.970436
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "中学校近くの坂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.359316,
+          33.970698
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "16の上"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3586389,
+          33.9703056
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "中学校奥の坂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3586389,
+          33.9703056
+        ]
+      },
+      "properties": {
+        "分類": "交通",
+        "場所": "18の上"
+      }
+    }
+  ]
+}
